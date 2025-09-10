@@ -19,5 +19,3 @@ https://iptv.b2og.com/txt/fmml_ipv6.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 http://aktv.space/live.m3u
 https://live.kilvn.com/iptv.m3u
-https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
-https://tstv.us.kg/sub?token=iptvindex.com
