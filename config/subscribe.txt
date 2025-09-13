@@ -21,4 +21,5 @@ http://aktv.space/live.m3u
 https://live.kilvn.com/iptv.m3u
 http://rihou.cc:555/gggg.nzk
 http://8.138.7.223/51.php
-https://tv-1.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Sport
